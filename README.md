@@ -14,3 +14,5 @@ For website owners who want to notice a visit when it happens. Add the tracking 
 - [Install VisitorPing on WordPress](https://visitorping.com/guides/how-to-track-visitors-on-wordpress?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=wordpress) — plugin download and setup steps.
 - [Free tracking detector](https://visitorping.com/tools/tracking-detector?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=detector) — check a public page for common analytics scripts.
 - [Free UTM builder](https://visitorping.com/tools/utm-builder?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=utm_builder) — label campaign links so you can compare traffic sources.
+
+The [WordPress connector source and downloadable release](https://github.com/sariserhan/visitorping-wordpress) are available on GitHub.

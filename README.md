@@ -8,21 +8,21 @@ Free to browse. Taking over costs $3.99 once. No guaranteed audience or duration
 
 ---
 
-## Know when someone visits your website
+## See how visitors explore your SaaS
 
-I’m building **[VisitorPing](https://visitorping.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation)**: see visits arrive in a live website dashboard, with optional iPhone notifications.
+I’m building **[VisitorPing](https://visitorping.com/?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026)** for SaaS founders and online businesses who want to see website activity as it happens.
 
-For website owners who want to notice a visit when it happens. Add the tracking script to your site and keep using your existing analytics. The iPhone app is an optional companion to the web dashboard.
+See visits, page navigation and referral context in a live dashboard. Understand which pages visitors explore before they sign up, and check that your tracking is working. Anonymous activity does **not** reveal someone's name or email. Optional iPhone notifications keep you informed away from the dashboard.
 
-**[Try it on your website →](https://visitorping.com/signup?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=trial)**  
-14-day free trial · No credit card required · $19/month after the trial
+**[Explore the interactive demo →](https://visitorping.com/demo?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=demo)** — sample data, no signup required.
 
-[Explore the sample demo](https://visitorping.com/demo?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=demo) — no signup needed. The demo uses sample visits.
+[Try it on your website](https://visitorping.com/signup?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=trial) · 14-day free trial · No credit card required
 
-### Useful links for your website
+### Useful setup guides and tools
 
-- [Install VisitorPing on WordPress](https://visitorping.com/guides/how-to-track-visitors-on-wordpress?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=wordpress) — plugin download and setup steps.
-- [Free tracking detector](https://visitorping.com/tools/tracking-detector?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=detector) — check a public page for common analytics scripts.
-- [Free UTM builder](https://visitorping.com/tools/utm-builder?utm_source=github&utm_medium=profile_readme&utm_campaign=first_installation&utm_content=utm_builder) — label campaign links so you can compare traffic sources.
+- [Track visits on Cloudflare Workers or Pages](https://visitorping.com/guides/how-to-track-visitors-with-cloudflare?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=cloudflare) — choose the correct installation method and verify page navigation.
+- [Install on Next.js](https://visitorping.com/guides/how-to-track-visitors-on-nextjs?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=nextjs) — setup instructions for a React application.
+- [Free tracking detector](https://visitorping.com/tools/tracking-detector?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=detector) — check a public page for common analytics scripts.
+- [Free UTM builder](https://visitorping.com/tools/utm-builder?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=utm_builder) — label campaign links so you can compare traffic sources.
 
 The [WordPress connector source and downloadable release](https://github.com/sariserhan/visitorping-wordpress) are available on GitHub.

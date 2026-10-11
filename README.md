@@ -18,6 +18,8 @@ See visits, page navigation and referral context in a live dashboard. Understand
 
 [Try it on your website](https://visitorping.com/signup?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=trial) · 14-day free trial · No credit card required
 
+I’m looking for SaaS founders and online business owners to try the setup and tell me where it’s confusing. [Try the founder walkthrough](https://visitorping.com/for-founders?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=usability_invitation), then [send me your feedback](mailto:contact@visitorping.com?subject=VisitorPing%20setup%20feedback).
+
 ### Useful setup guides and tools
 
 - [Track visits on Cloudflare Workers or Pages](https://visitorping.com/guides/how-to-track-visitors-with-cloudflare?utm_source=github&utm_medium=profile&utm_campaign=saas_founders_oct2026&utm_content=cloudflare) — choose the correct installation method and verify page navigation.
